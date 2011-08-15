@@ -114,5 +114,16 @@ ul#topnav li span a:hover {
 }
 
 footer {
+    background-image: url('../img/tan-bg.png');
+    repeat: repeat;
+    border-radius: 5px;
+    width: 200px;
+    margin: auto;
+}
 
+ul#footer {
+    list-style-type: none;
+    text-decoration: none;
+    display: block; 
+    position: absolute;
 }
