@@ -121,9 +121,15 @@ footer {
     margin: auto;
 }
 
-ul#footer {
-    list-style-type: none;
+footer ul {
+    list-style: none;
     text-decoration: none;
     display: block; 
     position: absolute;
+    text-align: center;
+}
+footer ul li {
+    float: left;
+    margin-left: 2px;
+    margin-right: 2px;
 }
