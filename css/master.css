@@ -29,6 +29,12 @@ header {
 	text-shadow: 1px 1px 4px black;
 }
 
+header h6 {
+    margin-top: -22px;
+    margin-left: 163px;
+    color: #654ebd;
+}
+
 #topnav {
     margin: 0px;
     padding: 0px;
