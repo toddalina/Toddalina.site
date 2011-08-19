@@ -29,10 +29,12 @@ header {
 	text-shadow: 1px 1px 4px black;
 }
 
-header h6 {
-    margin-top: -22px;
-    margin-left: 163px;
-    color: #654ebd;
+header h3 {
+    margin-top: -46px;
+    margin-left: 175px;
+    color: #358bf9;
+    -webkit-transform: rotate(-45deg);
+    text-shadow: 0px 0px 2px black;
 }
 
 #topnav {
@@ -125,13 +127,13 @@ footer {
 }
 
 footer ul {
-    margin-right: auto;
-    margin-left: auto;
     padding: 5px;
 	width: 20%;
 	list-style: none;
 	font-size: 0.8em;
     position: absolute;
+    margin-right: auto;
+    margin-left: auto;
 	background: url('../img/red-bg.png');
 	background-repeat: repeat;
 	border-radius: 7px;
